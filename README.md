@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋🏻Hey there! My name is Grant MacMillan and I'm an aspiring game developer.<br>🎮I'm currently learning Unity.<br>💪🏻I'm currently working on two 3D games: <br>       - Rythm Road<br>       - Served Up<br>
+👋🏻Hey there! My name is Grant MacMillan and I'm an aspiring game developer.<br>💪🏻I'm currently working on two 3D games: <br>       - Rythm Road<br>       - Served Up<br>
 
 
 ## 🌐 Socials:
